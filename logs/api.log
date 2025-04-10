@@ -1,0 +1,1042 @@
+[2025-04-09 16:57:52] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api[39m
+[2025-04-09 16:57:52] [[32minfo[39m]: [32mНайдены файлы: ["index.js","login","server-stats.js"][39m
+[2025-04-09 16:57:52] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login[39m
+[2025-04-09 16:57:52] [[32minfo[39m]: [32mНайдены файлы: ["account.js"][39m
+[2025-04-09 16:57:52] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login\account.js[39m
+[2025-04-09 16:57:52] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/login/account[39m
+[2025-04-09 16:57:53] [[32minfo[39m]: [32mРегистрация роута: /api/login/account[39m
+[2025-04-09 16:57:53] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\server-stats.js[39m
+[2025-04-09 16:57:53] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/server-stats[39m
+[2025-04-09 16:57:53] [[32minfo[39m]: [32mРегистрация роута: /api/server-stats[39m
+[2025-04-09 16:57:53] [[32minfo[39m]: [32mAPI-сервер запущен: http://localhost:3000[39m
+[2025-04-09 16:57:53] [[34mdebug[39m]: [34mРежим отладки активирован[39m
+[2025-04-09 16:57:53] [[33mwarn[39m]: [33mПредупреждение: проверка конфигурации[39m
+[2025-04-09 16:57:53] [[31merror[39m]: [31mТестовое сообщение об ошибке[39m
+[2025-04-09 16:57:53] [[31merror[39m]: [31m[Master DB] Ошибка подключения: [39m
+[2025-04-09 16:57:53] [[31merror[39m]: [31m[Game Main DB] Ошибка подключения: [39m
+[2025-04-09 16:57:53] [[31merror[39m]: [31m[Game Test DB] Ошибка подключения: [39m
+[2025-04-09 16:57:53] [[31merror[39m]: [31m[Login Test DB] Ошибка подключения: [39m
+[2025-04-09 16:57:53] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-09 16:57:53] [[32minfo[39m]: [32m[Login DB] Успешное подключение к базе данных[39m
+[2025-04-09 16:58:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:14:58:01 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 16:58:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:14:58:01 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 16:58:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:14:58:01 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 16:58:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:14:58:01 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 16:58:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:14:58:01 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 16:58:02] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:14:58:02 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 16:58:15] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:14:58:15 +0000] "POST /api/account/register HTTP/1.1" 404 160 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:00:50] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api[39m
+[2025-04-09 17:00:50] [[32minfo[39m]: [32mНайдены файлы: ["index.js","login","server-stats.js"][39m
+[2025-04-09 17:00:50] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login[39m
+[2025-04-09 17:00:50] [[32minfo[39m]: [32mНайдены файлы: ["account.js"][39m
+[2025-04-09 17:00:50] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login\account.js[39m
+[2025-04-09 17:00:50] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/login/account[39m
+[2025-04-09 17:00:50] [[32minfo[39m]: [32mРегистрация роута: /api/login/account[39m
+[2025-04-09 17:00:50] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\server-stats.js[39m
+[2025-04-09 17:00:50] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/server-stats[39m
+[2025-04-09 17:00:50] [[32minfo[39m]: [32mРегистрация роута: /api/server-stats[39m
+[2025-04-09 17:00:50] [[32minfo[39m]: [32mAPI-сервер запущен: http://localhost:3000[39m
+[2025-04-09 17:00:50] [[34mdebug[39m]: [34mРежим отладки активирован[39m
+[2025-04-09 17:00:50] [[33mwarn[39m]: [33mПредупреждение: проверка конфигурации[39m
+[2025-04-09 17:00:50] [[31merror[39m]: [31mТестовое сообщение об ошибке[39m
+[2025-04-09 17:00:50] [[31merror[39m]: [31m[Game Main DB] Ошибка подключения: [39m
+[2025-04-09 17:00:50] [[31merror[39m]: [31m[Master DB] Ошибка подключения: [39m
+[2025-04-09 17:00:50] [[31merror[39m]: [31m[Game Test DB] Ошибка подключения: [39m
+[2025-04-09 17:00:50] [[31merror[39m]: [31m[Login Test DB] Ошибка подключения: [39m
+[2025-04-09 17:00:51] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-09 17:00:51] [[32minfo[39m]: [32m[Login DB] Успешное подключение к базе данных[39m
+[2025-04-09 17:00:56] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:00:56 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:00:56] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:00:56 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 200 10866 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:00:56] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:00:56 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:00:56] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:00:56 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:00:56] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:00:56 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:00:56] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:00:56 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:01:10] [[31merror[39m]: [31mОшибка при создании аккаунта: pool.query is not a function[39m
+[2025-04-09 17:01:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:01:10 +0000] "POST /api/login/account/register HTTP/1.1" 500 106 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:12:26] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api[39m
+[2025-04-09 17:12:26] [[32minfo[39m]: [32mНайдены файлы: ["index.js","login","server-stats.js"][39m
+[2025-04-09 17:12:26] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login[39m
+[2025-04-09 17:12:26] [[32minfo[39m]: [32mНайдены файлы: ["account.js"][39m
+[2025-04-09 17:12:26] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login\account.js[39m
+[2025-04-09 17:12:26] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/login/account[39m
+[2025-04-09 17:12:26] [[32minfo[39m]: [32mРегистрация роута: /api/login/account[39m
+[2025-04-09 17:12:26] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\server-stats.js[39m
+[2025-04-09 17:12:26] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/server-stats[39m
+[2025-04-09 17:12:26] [[32minfo[39m]: [32mРегистрация роута: /api/server-stats[39m
+[2025-04-09 17:12:26] [[32minfo[39m]: [32mAPI-сервер запущен: http://localhost:3000[39m
+[2025-04-09 17:12:26] [[34mdebug[39m]: [34mРежим отладки активирован[39m
+[2025-04-09 17:12:26] [[33mwarn[39m]: [33mПредупреждение: проверка конфигурации[39m
+[2025-04-09 17:12:26] [[31merror[39m]: [31mТестовое сообщение об ошибке[39m
+[2025-04-09 17:12:26] [[31merror[39m]: [31m[Master DB] Ошибка подключения: [39m
+[2025-04-09 17:12:26] [[31merror[39m]: [31m[Game Main DB] Ошибка подключения: [39m
+[2025-04-09 17:12:26] [[31merror[39m]: [31m[Game Test DB] Ошибка подключения: [39m
+[2025-04-09 17:12:26] [[31merror[39m]: [31m[Login Test DB] Ошибка подключения: [39m
+[2025-04-09 17:12:27] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-09 17:12:27] [[32minfo[39m]: [32m[Login DB] Успешное подключение к базе данных[39m
+[2025-04-09 17:12:30] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:12:30 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:12:30] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:12:30 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:12:30] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:12:30 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:12:30] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:12:30 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:12:30] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:12:30 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:12:31] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:12:31 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:12:32] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:12:32 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:12:32] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:12:32 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:12:32] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:12:32 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:12:32] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:12:32 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:12:32] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:12:32 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:12:33] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:12:33 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:12:45] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT COUNT(*) as count FROM accounts WHERE login = '111111'[39m
+[2025-04-09 17:12:45] [[31merror[39m]: [31mОшибка при создании аккаунта: whirlpool is not a function[39m
+[2025-04-09 17:12:45] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:12:45 +0000] "POST /api/login/account/register HTTP/1.1" 500 105 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:14:16] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api[39m
+[2025-04-09 17:14:16] [[32minfo[39m]: [32mНайдены файлы: ["index.js","login","server-stats.js"][39m
+[2025-04-09 17:14:16] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login[39m
+[2025-04-09 17:14:16] [[32minfo[39m]: [32mНайдены файлы: ["account.js"][39m
+[2025-04-09 17:14:16] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login\account.js[39m
+[2025-04-09 17:14:16] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/login/account[39m
+[2025-04-09 17:14:17] [[32minfo[39m]: [32mРегистрация роута: /api/login/account[39m
+[2025-04-09 17:14:17] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\server-stats.js[39m
+[2025-04-09 17:14:17] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/server-stats[39m
+[2025-04-09 17:14:17] [[32minfo[39m]: [32mРегистрация роута: /api/server-stats[39m
+[2025-04-09 17:14:17] [[32minfo[39m]: [32mAPI-сервер запущен: http://localhost:3000[39m
+[2025-04-09 17:14:17] [[34mdebug[39m]: [34mРежим отладки активирован[39m
+[2025-04-09 17:14:17] [[33mwarn[39m]: [33mПредупреждение: проверка конфигурации[39m
+[2025-04-09 17:14:17] [[31merror[39m]: [31mТестовое сообщение об ошибке[39m
+[2025-04-09 17:14:17] [[31merror[39m]: [31m[Master DB] Ошибка подключения: [39m
+[2025-04-09 17:14:17] [[31merror[39m]: [31m[Game Main DB] Ошибка подключения: [39m
+[2025-04-09 17:14:17] [[31merror[39m]: [31m[Game Test DB] Ошибка подключения: [39m
+[2025-04-09 17:14:17] [[31merror[39m]: [31m[Login Test DB] Ошибка подключения: [39m
+[2025-04-09 17:14:17] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-09 17:14:17] [[32minfo[39m]: [32m[Login DB] Успешное подключение к базе данных[39m
+[2025-04-09 17:14:27] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:14:27 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:14:27] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:14:27 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:14:27] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:14:27 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:14:27] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:14:27 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:14:27] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:14:27 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:14:27] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:14:27 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:14:40] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT COUNT(*) as count FROM accounts WHERE login = '111111'[39m
+[2025-04-09 17:14:40] [[31merror[39m]: [31mОшибка при генерации хеша Whirlpool: Модуль whirlpool-hash не предоставляет функцию[39m
+[2025-04-09 17:14:40] [[33mwarn[39m]: [33mИспользование SHA-512 в качестве резервного варианта для хеширования[39m
+[2025-04-09 17:14:40] [[34mdebug[39m]: [34m[Login DB] Executing (default): CALL lip_AccountCreate('111111', 'sEEll9zqgTZVV03FSlt0lnz4UxfwMyolkb55U6AW+N5WIA6zfVulk7HkqifOpconEA+U3M1bBLrlyt1EVNumfQ==')[39m
+[2025-04-09 17:14:40] [[32minfo[39m]: [32mСоздан новый аккаунт: 111111[39m
+[2025-04-09 17:14:40] [[34mdebug[39m]: [34m[Login DB] Executing (default): CALL lip_AccountUpdate('111111', 'sEEll9zqgTZVV03FSlt0lnz4UxfwMyolkb55U6AW+N5WIA6zfVulk7HkqifOpconEA+U3M1bBLrlyt1EVNumfQ==', NULL, NULL, NULL, NULL, 1744211680, 'user@example.com')[39m
+[2025-04-09 17:14:40] [[32minfo[39m]: [32mОбновлен аккаунт: 111111[39m
+[2025-04-09 17:14:40] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:14:40 +0000] "POST /api/login/account/register HTTP/1.1" 201 71 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:22:46] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api[39m
+[2025-04-09 17:22:46] [[32minfo[39m]: [32mНайдены файлы: ["index.js","login","server-stats.js"][39m
+[2025-04-09 17:22:46] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login[39m
+[2025-04-09 17:22:46] [[32minfo[39m]: [32mНайдены файлы: ["account.js"][39m
+[2025-04-09 17:22:46] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login\account.js[39m
+[2025-04-09 17:22:46] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/login/account[39m
+[2025-04-09 17:22:46] [[32minfo[39m]: [32mРегистрация роута: /api/login/account[39m
+[2025-04-09 17:22:46] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\server-stats.js[39m
+[2025-04-09 17:22:46] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/server-stats[39m
+[2025-04-09 17:22:46] [[32minfo[39m]: [32mРегистрация роута: /api/server-stats[39m
+[2025-04-09 17:22:47] [[32minfo[39m]: [32mAPI-сервер запущен: http://localhost:3000[39m
+[2025-04-09 17:22:47] [[34mdebug[39m]: [34mРежим отладки активирован[39m
+[2025-04-09 17:22:47] [[33mwarn[39m]: [33mПредупреждение: проверка конфигурации[39m
+[2025-04-09 17:22:47] [[31merror[39m]: [31mТестовое сообщение об ошибке[39m
+[2025-04-09 17:22:47] [[31merror[39m]: [31m[Master DB] Ошибка подключения: [39m
+[2025-04-09 17:22:47] [[31merror[39m]: [31m[Game Main DB] Ошибка подключения: [39m
+[2025-04-09 17:22:47] [[31merror[39m]: [31m[Game Test DB] Ошибка подключения: [39m
+[2025-04-09 17:22:47] [[31merror[39m]: [31m[Login Test DB] Ошибка подключения: [39m
+[2025-04-09 17:22:47] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-09 17:22:47] [[32minfo[39m]: [32m[Login DB] Успешное подключение к базе данных[39m
+[2025-04-09 17:22:52] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:22:52 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:22:52] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:22:52 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:22:52] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:22:52 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:22:52] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:22:52 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:22:52] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:22:52 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:22:53] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:22:53 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:22:53] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:22:53 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:22:54] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:22:54 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:22:54] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:22:54 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:22:54] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:22:54 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:22:54] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:22:54 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:22:54] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:22:54 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:23:04] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT COUNT(*) as count FROM accounts WHERE login = '111111'[39m
+[2025-04-09 17:23:04] [[31merror[39m]: [31mОшибка при использовании алгоритма whirlpool: error:0308010C:digital envelope routines::unsupported[39m
+[2025-04-09 17:23:04] [[33mwarn[39m]: [33mИспользование SHA-512 в качестве резервного варианта хеширования вместо whirlpool[39m
+[2025-04-09 17:23:04] [[34mdebug[39m]: [34mСгенерирован хеш для пароля: sEEll9zqgTZVV03FSlt0lnz4UxfwMyolkb55U6AW+N5WIA6zfVulk7HkqifOpconEA+U3M1bBLrlyt1EVNumfQ==[39m
+[2025-04-09 17:23:04] [[34mdebug[39m]: [34m[Login DB] Executing (default): CALL lip_AccountCreate('111111', 'sEEll9zqgTZVV03FSlt0lnz4UxfwMyolkb55U6AW+N5WIA6zfVulk7HkqifOpconEA+U3M1bBLrlyt1EVNumfQ==')[39m
+[2025-04-09 17:23:05] [[32minfo[39m]: [32mСоздан новый аккаунт: 111111[39m
+[2025-04-09 17:23:05] [[34mdebug[39m]: [34m[Login DB] Executing (default): CALL lip_AccountUpdate('111111', 'sEEll9zqgTZVV03FSlt0lnz4UxfwMyolkb55U6AW+N5WIA6zfVulk7HkqifOpconEA+U3M1bBLrlyt1EVNumfQ==', NULL, NULL, NULL, NULL, 1744212185, 'user@example.com')[39m
+[2025-04-09 17:23:05] [[32minfo[39m]: [32mОбновлен аккаунт: 111111[39m
+[2025-04-09 17:23:05] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:23:05 +0000] "POST /api/login/account/register HTTP/1.1" 201 71 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:31:56] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api[39m
+[2025-04-09 17:31:56] [[32minfo[39m]: [32mНайдены файлы: ["index.js","login","server-stats.js"][39m
+[2025-04-09 17:31:56] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login[39m
+[2025-04-09 17:31:56] [[32minfo[39m]: [32mНайдены файлы: ["account.js"][39m
+[2025-04-09 17:31:56] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login\account.js[39m
+[2025-04-09 17:31:56] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/login/account[39m
+[2025-04-09 17:31:57] [[32minfo[39m]: [32mРегистрация роута: /api/login/account[39m
+[2025-04-09 17:31:57] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\server-stats.js[39m
+[2025-04-09 17:31:57] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/server-stats[39m
+[2025-04-09 17:31:57] [[32minfo[39m]: [32mРегистрация роута: /api/server-stats[39m
+[2025-04-09 17:31:57] [[32minfo[39m]: [32mAPI-сервер запущен: http://localhost:3000[39m
+[2025-04-09 17:31:57] [[34mdebug[39m]: [34mРежим отладки активирован[39m
+[2025-04-09 17:31:57] [[33mwarn[39m]: [33mПредупреждение: проверка конфигурации[39m
+[2025-04-09 17:31:57] [[31merror[39m]: [31mТестовое сообщение об ошибке[39m
+[2025-04-09 17:31:57] [[31merror[39m]: [31m[Game Main DB] Ошибка подключения: [39m
+[2025-04-09 17:31:57] [[31merror[39m]: [31m[Master DB] Ошибка подключения: [39m
+[2025-04-09 17:31:57] [[31merror[39m]: [31m[Game Test DB] Ошибка подключения: [39m
+[2025-04-09 17:31:57] [[31merror[39m]: [31m[Login Test DB] Ошибка подключения: [39m
+[2025-04-09 17:31:57] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-09 17:31:57] [[32minfo[39m]: [32m[Login DB] Успешное подключение к базе данных[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:02] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:01 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:02] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:02 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:02] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:02 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:02] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:02 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:02] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:02 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:02] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:02 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:02] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:02 +0000] "GET /api-docs/favicon-16x16.png HTTP/1.1" 200 665 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:02] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:02 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:02] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:02 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:02] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:02 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:02] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:02 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:02] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:02 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:02] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:02 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:02] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:02 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:03] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:03 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:03] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:03 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:03] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:03 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:03] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:03 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:03] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:03 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:03] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:03 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:32:31] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT COUNT(*) as count FROM accounts WHERE login = '111111'[39m
+[2025-04-09 17:32:31] [[34mdebug[39m]: [34mСгенерирован хеш sha1 для пароля: PU8r8H3BvjiyDNbkaUmhBx+dDj0=[39m
+[2025-04-09 17:32:31] [[34mdebug[39m]: [34mСгенерирован хеш для пароля: PU8r8H3BvjiyDNbkaUmhBx+dDj0=[39m
+[2025-04-09 17:32:31] [[34mdebug[39m]: [34m[Login DB] Executing (default): CALL lip_AccountCreate('111111', 'PU8r8H3BvjiyDNbkaUmhBx+dDj0=')[39m
+[2025-04-09 17:32:31] [[32minfo[39m]: [32mСоздан новый аккаунт: 111111[39m
+[2025-04-09 17:32:31] [[34mdebug[39m]: [34m[Login DB] Executing (default): CALL lip_AccountUpdate('111111', 'PU8r8H3BvjiyDNbkaUmhBx+dDj0=', NULL, NULL, NULL, NULL, 1744212751, 'user@example.com')[39m
+[2025-04-09 17:32:31] [[32minfo[39m]: [32mОбновлен аккаунт: 111111[39m
+[2025-04-09 17:32:31] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:32:31 +0000] "POST /api/login/account/register HTTP/1.1" 201 71 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:35:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:35:10 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:35:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:35:10 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:35:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:35:10 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:35:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:35:10 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:35:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:35:10 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:35:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:35:10 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:37:08] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api[39m
+[2025-04-09 17:37:08] [[32minfo[39m]: [32mНайдены файлы: ["index.js","login","server-stats.js"][39m
+[2025-04-09 17:37:08] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login[39m
+[2025-04-09 17:37:08] [[32minfo[39m]: [32mНайдены файлы: ["account.js"][39m
+[2025-04-09 17:37:08] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login\account.js[39m
+[2025-04-09 17:37:08] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/login/account[39m
+[2025-04-09 17:37:08] [[32minfo[39m]: [32mРегистрация роута: /api/login/account[39m
+[2025-04-09 17:37:08] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\server-stats.js[39m
+[2025-04-09 17:37:08] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/server-stats[39m
+[2025-04-09 17:37:08] [[32minfo[39m]: [32mРегистрация роута: /api/server-stats[39m
+[2025-04-09 17:37:08] [[32minfo[39m]: [32mAPI-сервер запущен: http://localhost:3000[39m
+[2025-04-09 17:37:08] [[34mdebug[39m]: [34mРежим отладки активирован[39m
+[2025-04-09 17:37:08] [[33mwarn[39m]: [33mПредупреждение: проверка конфигурации[39m
+[2025-04-09 17:37:08] [[31merror[39m]: [31mТестовое сообщение об ошибке[39m
+[2025-04-09 17:37:08] [[31merror[39m]: [31m[Master DB] Ошибка подключения: [39m
+[2025-04-09 17:37:08] [[31merror[39m]: [31m[Game Main DB] Ошибка подключения: [39m
+[2025-04-09 17:37:08] [[31merror[39m]: [31m[Game Test DB] Ошибка подключения: [39m
+[2025-04-09 17:37:08] [[31merror[39m]: [31m[Login Test DB] Ошибка подключения: [39m
+[2025-04-09 17:37:09] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-09 17:37:09] [[32minfo[39m]: [32m[Login DB] Успешное подключение к базе данных[39m
+[2025-04-09 17:37:17] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:37:17 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:37:17] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:37:17 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 200 15470 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:37:17] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:37:17 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:37:17] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:37:17 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:37:17] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:37:17 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:37:17] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:37:17 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:37:34] [[33mwarn[39m]: [33mНеудачная попытка доступа к API. Предоставленный ключ: undefined[39m
+[2025-04-09 17:37:34] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:37:34 +0000] "PUT /api/login/account/change-password HTTP/1.1" 401 130 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:37:44] [[34mdebug[39m]: [34m[Login DB] Executing (default): CALL lip_AccountLoad('111111')[39m
+[2025-04-09 17:37:44] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:37:44 +0000] "PUT /api/login/account/change-password HTTP/1.1" 404 44 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:38:17] [[34mdebug[39m]: [34m[Login DB] Executing (default): CALL lip_AccountLoad('111111')[39m
+[2025-04-09 17:38:17] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:38:17 +0000] "PUT /api/login/account/change-password HTTP/1.1" 404 44 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:39:38] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api[39m
+[2025-04-09 17:39:38] [[32minfo[39m]: [32mНайдены файлы: ["index.js","login","server-stats.js"][39m
+[2025-04-09 17:39:38] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login[39m
+[2025-04-09 17:39:38] [[32minfo[39m]: [32mНайдены файлы: ["account.js"][39m
+[2025-04-09 17:39:38] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login\account.js[39m
+[2025-04-09 17:39:38] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/login/account[39m
+[2025-04-09 17:39:39] [[32minfo[39m]: [32mРегистрация роута: /api/login/account[39m
+[2025-04-09 17:39:39] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\server-stats.js[39m
+[2025-04-09 17:39:39] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/server-stats[39m
+[2025-04-09 17:39:39] [[32minfo[39m]: [32mРегистрация роута: /api/server-stats[39m
+[2025-04-09 17:39:39] [[32minfo[39m]: [32mAPI-сервер запущен: http://localhost:3000[39m
+[2025-04-09 17:39:39] [[34mdebug[39m]: [34mРежим отладки активирован[39m
+[2025-04-09 17:39:39] [[33mwarn[39m]: [33mПредупреждение: проверка конфигурации[39m
+[2025-04-09 17:39:39] [[31merror[39m]: [31mТестовое сообщение об ошибке[39m
+[2025-04-09 17:39:39] [[31merror[39m]: [31m[Master DB] Ошибка подключения: [39m
+[2025-04-09 17:39:39] [[31merror[39m]: [31m[Game Main DB] Ошибка подключения: [39m
+[2025-04-09 17:39:39] [[31merror[39m]: [31m[Game Test DB] Ошибка подключения: [39m
+[2025-04-09 17:39:39] [[31merror[39m]: [31m[Login Test DB] Ошибка подключения: [39m
+[2025-04-09 17:39:39] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-09 17:39:39] [[32minfo[39m]: [32m[Login DB] Успешное подключение к базе данных[39m
+[2025-04-09 17:40:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:40:01 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:40:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:40:01 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:40:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:40:01 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:40:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:40:01 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:40:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:40:01 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:40:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:40:01 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:40:02] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:40:02 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:40:02] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:40:02 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:40:02] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:40:02 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:40:02] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:40:02 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:40:02] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:40:02 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:40:02] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:40:02 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:40:15] [[34mdebug[39m]: [34m[Login DB] Executing (default): CALL lip_AccountLoad('111111')[39m
+[2025-04-09 17:40:15] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:40:15 +0000] "PUT /api/login/account/change-password HTTP/1.1" 404 44 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:42:05] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api[39m
+[2025-04-09 17:42:05] [[32minfo[39m]: [32mНайдены файлы: ["index.js","login","server-stats.js"][39m
+[2025-04-09 17:42:05] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login[39m
+[2025-04-09 17:42:05] [[32minfo[39m]: [32mНайдены файлы: ["account.js"][39m
+[2025-04-09 17:42:05] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login\account.js[39m
+[2025-04-09 17:42:05] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/login/account[39m
+[2025-04-09 17:42:06] [[32minfo[39m]: [32mРегистрация роута: /api/login/account[39m
+[2025-04-09 17:42:06] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\server-stats.js[39m
+[2025-04-09 17:42:06] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/server-stats[39m
+[2025-04-09 17:42:06] [[32minfo[39m]: [32mРегистрация роута: /api/server-stats[39m
+[2025-04-09 17:42:06] [[32minfo[39m]: [32mAPI-сервер запущен: http://localhost:3000[39m
+[2025-04-09 17:42:06] [[34mdebug[39m]: [34mРежим отладки активирован[39m
+[2025-04-09 17:42:06] [[33mwarn[39m]: [33mПредупреждение: проверка конфигурации[39m
+[2025-04-09 17:42:06] [[31merror[39m]: [31mТестовое сообщение об ошибке[39m
+[2025-04-09 17:42:06] [[31merror[39m]: [31m[Game Main DB] Ошибка подключения: [39m
+[2025-04-09 17:42:06] [[31merror[39m]: [31m[Master DB] Ошибка подключения: [39m
+[2025-04-09 17:42:06] [[31merror[39m]: [31m[Game Test DB] Ошибка подключения: [39m
+[2025-04-09 17:42:06] [[31merror[39m]: [31m[Login Test DB] Ошибка подключения: [39m
+[2025-04-09 17:42:06] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-09 17:42:06] [[32minfo[39m]: [32m[Login DB] Успешное подключение к базе данных[39m
+[2025-04-09 17:42:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:42:10 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:42:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:42:10 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:42:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:42:10 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:42:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:42:10 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 200 12997 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:42:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:42:10 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:42:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:42:10 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:42:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:42:10 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:42:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:42:10 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:42:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:42:10 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:42:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:42:10 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:42:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:42:10 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:42:11] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:42:11 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:42:11] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:42:11 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:42:11] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:42:11 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:42:11] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:42:11 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:42:11] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:42:11 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:42:11] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:42:11 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:42:11] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:42:11 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:42:24] [[34mdebug[39m]: [34mЗапрос на смену пароля для аккаунта: 111111[39m
+[2025-04-09 17:42:24] [[34mdebug[39m]: [34mПроверка существования аккаунта: 111111[39m
+[2025-04-09 17:42:24] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT COUNT(*) as count FROM accounts WHERE login = '111111'[39m
+[2025-04-09 17:42:24] [[34mdebug[39m]: [34mРезультат проверки существования: {"count":"1"}[39m
+[2025-04-09 17:42:24] [[34mdebug[39m]: [34mРезультат проверки существования аккаунта 111111: true[39m
+[2025-04-09 17:42:24] [[34mdebug[39m]: [34mЗагрузка информации об аккаунте: 111111[39m
+[2025-04-09 17:42:24] [[34mdebug[39m]: [34m[Login DB] Executing (default): CALL lip_AccountLoad('111111')[39m
+[2025-04-09 17:42:24] [[34mdebug[39m]: [34mРезультат загрузки аккаунта: [{"password":"PU8r8H3BvjiyDNbkaUmhBx+dDj0=","accessLevel":null,"lastServerId":null,"lastIP":null,"lastHWID":null,"lastactive":1744212751,"email":"user@example.com"}][39m
+[2025-04-09 17:42:24] [[34mdebug[39m]: [34mДанные аккаунта: {"password":"PU8r8H3BvjiyDNbkaUmhBx+dDj0=","accessLevel":null,"lastServerId":null,"lastIP":null,"lastHWID":null,"lastactive":1744212751,"email":"user@example.com"}[39m
+[2025-04-09 17:42:24] [[34mdebug[39m]: [34mЗагруженная информация об аккаунте: {"password":"PU8r8H3BvjiyDNbkaUmhBx+dDj0=","accessLevel":null,"lastServerId":null,"lastIP":null,"lastHWID":null,"lastactive":1744212751,"email":"user@example.com"}[39m
+[2025-04-09 17:42:24] [[34mdebug[39m]: [34mСгенерирован хеш sha1 для пароля: PU8r8H3BvjiyDNbkaUmhBx+dDj0=[39m
+[2025-04-09 17:42:24] [[34mdebug[39m]: [34mПроверка пароля для 111111: true[39m
+[2025-04-09 17:42:24] [[34mdebug[39m]: [34mСгенерирован хеш sha1 для пароля: JzoMe9PGebqab12ZB4426F0CuVI=[39m
+[2025-04-09 17:42:24] [[34mdebug[39m]: [34mСгенерирован новый хеш для пароля: JzoMe9PGebqab12ZB4426F0CuVI=[39m
+[2025-04-09 17:42:24] [[34mdebug[39m]: [34mОбновление аккаунта: 111111, обновляемые поля: {"passwordUpdated":true,"accessLevel":null,"lastServerId":null,"lastIPUpdated":false,"lastHWIDUpdated":false,"lastactive":1744213344,"emailUpdated":false}[39m
+[2025-04-09 17:42:24] [[34mdebug[39m]: [34m[Login DB] Executing (default): CALL lip_AccountUpdate('111111', 'JzoMe9PGebqab12ZB4426F0CuVI=', NULL, NULL, NULL, NULL, 1744213344, NULL)[39m
+[2025-04-09 17:42:24] [[32minfo[39m]: [32mОбновлен аккаунт: 111111[39m
+[2025-04-09 17:42:24] [[32minfo[39m]: [32mИзменен пароль для аккаунта: 111111[39m
+[2025-04-09 17:42:24] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:42:24 +0000] "PUT /api/login/account/change-password HTTP/1.1" 200 71 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:54:09] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api[39m
+[2025-04-09 17:54:09] [[32minfo[39m]: [32mНайдены файлы: ["index.js","login","server-stats.js"][39m
+[2025-04-09 17:54:09] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login[39m
+[2025-04-09 17:54:09] [[32minfo[39m]: [32mНайдены файлы: ["account.js"][39m
+[2025-04-09 17:54:09] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login\account.js[39m
+[2025-04-09 17:54:09] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/login/account[39m
+[2025-04-09 17:54:09] [[32minfo[39m]: [32mРегистрация роута: /api/login/account[39m
+[2025-04-09 17:54:09] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\server-stats.js[39m
+[2025-04-09 17:54:09] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/server-stats[39m
+[2025-04-09 17:54:09] [[32minfo[39m]: [32mРегистрация роута: /api/server-stats[39m
+[2025-04-09 17:54:09] [[32minfo[39m]: [32mAPI-сервер запущен: http://localhost:3000[39m
+[2025-04-09 17:54:09] [[34mdebug[39m]: [34mРежим отладки активирован[39m
+[2025-04-09 17:54:09] [[33mwarn[39m]: [33mПредупреждение: проверка конфигурации[39m
+[2025-04-09 17:54:09] [[31merror[39m]: [31mТестовое сообщение об ошибке[39m
+[2025-04-09 17:54:09] [[31merror[39m]: [31m[Master DB] Ошибка подключения: [39m
+[2025-04-09 17:54:09] [[31merror[39m]: [31m[Game Main DB] Ошибка подключения: [39m
+[2025-04-09 17:54:09] [[31merror[39m]: [31m[Login Test DB] Ошибка подключения: [39m
+[2025-04-09 17:54:09] [[31merror[39m]: [31m[Game Test DB] Ошибка подключения: [39m
+[2025-04-09 17:54:10] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-09 17:54:10] [[32minfo[39m]: [32m[Login DB] Успешное подключение к базе данных[39m
+[2025-04-09 17:54:14] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:54:14 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:54:14] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:54:14 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:54:14] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:54:14 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:54:14] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:54:14 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 200 14673 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:54:14] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:54:14 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:54:14] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:54:14 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:54:14] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:54:14 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:54:14] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:54:14 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:54:14] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:54:14 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:54:14] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:54:14 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:54:14] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:54:14 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:54:15] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:54:15 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:54:15] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:54:15 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:54:15] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:54:15 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:54:15] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:54:15 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:54:15] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:54:15 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:54:15] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:54:15 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:54:15] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:54:15 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:54:29] [[34mdebug[39m]: [34mЗапрос на смену пароля для аккаунта: 111111[39m
+[2025-04-09 17:54:29] [[34mdebug[39m]: [34mПроверка существования аккаунта: 111111[39m
+[2025-04-09 17:54:29] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT COUNT(*) as count FROM accounts WHERE login = '111111'[39m
+[2025-04-09 17:54:29] [[34mdebug[39m]: [34mРезультат проверки существования: {"count":"1"}[39m
+[2025-04-09 17:54:29] [[34mdebug[39m]: [34mРезультат проверки существования аккаунта 111111: true[39m
+[2025-04-09 17:54:29] [[34mdebug[39m]: [34mСгенерирован хеш sha1 для пароля: PU8r8H3BvjiyDNbkaUmhBx+dDj0=[39m
+[2025-04-09 17:54:29] [[34mdebug[39m]: [34mСгенерирован новый хеш для пароля: PU8r8H3BvjiyDNbkaUmhBx+dDj0=[39m
+[2025-04-09 17:54:29] [[34mdebug[39m]: [34mОбновление аккаунта: 111111, обновляемые поля: {"passwordUpdated":true,"accessLevel":null,"lastServerId":null,"lastIPUpdated":false,"lastHWIDUpdated":false,"lastactive":1744214069,"emailUpdated":false}[39m
+[2025-04-09 17:54:29] [[34mdebug[39m]: [34m[Login DB] Executing (default): CALL lip_AccountUpdate('111111', 'PU8r8H3BvjiyDNbkaUmhBx+dDj0=', NULL, NULL, NULL, NULL, 1744214069, NULL)[39m
+[2025-04-09 17:54:29] [[32minfo[39m]: [32mОбновлен аккаунт: 111111[39m
+[2025-04-09 17:54:29] [[32minfo[39m]: [32mИзменен пароль для аккаунта: 111111[39m
+[2025-04-09 17:54:29] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:54:29 +0000] "PUT /api/login/account/change-password HTTP/1.1" 200 71 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:40] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api[39m
+[2025-04-09 17:57:40] [[32minfo[39m]: [32mНайдены файлы: ["index.js","login","server-stats.js"][39m
+[2025-04-09 17:57:40] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login[39m
+[2025-04-09 17:57:40] [[32minfo[39m]: [32mНайдены файлы: ["account.js"][39m
+[2025-04-09 17:57:40] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login\account.js[39m
+[2025-04-09 17:57:40] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/login/account[39m
+[2025-04-09 17:57:40] [[32minfo[39m]: [32mРегистрация роута: /api/login/account[39m
+[2025-04-09 17:57:40] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\server-stats.js[39m
+[2025-04-09 17:57:40] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/server-stats[39m
+[2025-04-09 17:57:40] [[32minfo[39m]: [32mРегистрация роута: /api/server-stats[39m
+[2025-04-09 17:57:40] [[32minfo[39m]: [32mAPI-сервер запущен: http://localhost:3000[39m
+[2025-04-09 17:57:40] [[34mdebug[39m]: [34mРежим отладки активирован[39m
+[2025-04-09 17:57:40] [[33mwarn[39m]: [33mПредупреждение: проверка конфигурации[39m
+[2025-04-09 17:57:40] [[31merror[39m]: [31mТестовое сообщение об ошибке[39m
+[2025-04-09 17:57:40] [[31merror[39m]: [31m[Master DB] Ошибка подключения: [39m
+[2025-04-09 17:57:40] [[31merror[39m]: [31m[Game Main DB] Ошибка подключения: [39m
+[2025-04-09 17:57:40] [[31merror[39m]: [31m[Game Test DB] Ошибка подключения: [39m
+[2025-04-09 17:57:40] [[31merror[39m]: [31m[Login Test DB] Ошибка подключения: [39m
+[2025-04-09 17:57:41] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-09 17:57:41] [[32minfo[39m]: [32m[Login DB] Успешное подключение к базе данных[39m
+[2025-04-09 17:57:45] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:45 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:45] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:45 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:45] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:45 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:45] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:45 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 200 13197 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:45] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:45 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:45] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:45 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:45] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:45 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:45] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:45 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:45] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:45 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:45] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:45 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:45] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:45 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:45] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:45 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:45 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:46 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:46 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:46 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:46 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:46 +0000] "GET /api-docs/favicon-16x16.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:46 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:46 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:46 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:46 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:46 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:46 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:46 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:46 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:46 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:46 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:46 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:46 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:46 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:46 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:46 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:46 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:46 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:47] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:47 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 17:57:59] [[34mdebug[39m]: [34mПроверка существования аккаунта: 222222[39m
+[2025-04-09 17:57:59] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT COUNT(*) as count FROM accounts WHERE login = '222222'[39m
+[2025-04-09 17:57:59] [[34mdebug[39m]: [34mРезультат проверки существования: {"count":"0"}[39m
+[2025-04-09 17:57:59] [[34mdebug[39m]: [34mСгенерирован хеш sha1 для пароля: JzoMe9PGebqab12ZB4426F0CuVI=[39m
+[2025-04-09 17:57:59] [[34mdebug[39m]: [34mСгенерирован хеш для пароля: JzoMe9PGebqab12ZB4426F0CuVI=[39m
+[2025-04-09 17:57:59] [[34mdebug[39m]: [34mСоздание аккаунта: 222222[39m
+[2025-04-09 17:57:59] [[34mdebug[39m]: [34m[Login DB] Executing (default): CALL lip_AccountCreate('222222', 'JzoMe9PGebqab12ZB4426F0CuVI=')[39m
+[2025-04-09 17:57:59] [[32minfo[39m]: [32mСоздан новый аккаунт: 222222[39m
+[2025-04-09 17:57:59] [[34mdebug[39m]: [34mОбновление аккаунта: 222222, обновляемые поля: {"passwordUpdated":true,"accessLevel":0,"lastServerId":null,"lastIPUpdated":false,"lastHWIDUpdated":false,"lastactive":null,"emailUpdated":true}[39m
+[2025-04-09 17:57:59] [[34mdebug[39m]: [34m[Login DB] Executing (default): CALL lip_AccountUpdate('222222', 'JzoMe9PGebqab12ZB4426F0CuVI=', 0, NULL, NULL, NULL, NULL, 'user@example.com')[39m
+[2025-04-09 17:57:59] [[32minfo[39m]: [32mОбновлен аккаунт: 222222[39m
+[2025-04-09 17:57:59] [[32minfo[39m]: [32mУстановлен accessLevel = 0 для аккаунта: 222222[39m
+[2025-04-09 17:57:59] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:15:57:59 +0000] "POST /api/login/account/register HTTP/1.1" 201 71 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:06:55] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api[39m
+[2025-04-09 18:06:55] [[32minfo[39m]: [32mНайдены файлы: ["index.js","login","server-stats.js"][39m
+[2025-04-09 18:06:55] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login[39m
+[2025-04-09 18:06:55] [[32minfo[39m]: [32mНайдены файлы: ["account.js"][39m
+[2025-04-09 18:06:55] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login\account.js[39m
+[2025-04-09 18:06:55] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/login/account[39m
+[2025-04-09 18:06:56] [[32minfo[39m]: [32mРегистрация роута: /api/login/account[39m
+[2025-04-09 18:06:56] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\server-stats.js[39m
+[2025-04-09 18:06:56] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/server-stats[39m
+[2025-04-09 18:06:56] [[32minfo[39m]: [32mРегистрация роута: /api/server-stats[39m
+[2025-04-09 18:06:56] [[32minfo[39m]: [32mAPI-сервер запущен: http://localhost:3000[39m
+[2025-04-09 18:06:56] [[34mdebug[39m]: [34mРежим отладки активирован[39m
+[2025-04-09 18:06:56] [[33mwarn[39m]: [33mПредупреждение: проверка конфигурации[39m
+[2025-04-09 18:06:56] [[31merror[39m]: [31mТестовое сообщение об ошибке[39m
+[2025-04-09 18:06:56] [[31merror[39m]: [31m[Master DB] Ошибка подключения: [39m
+[2025-04-09 18:06:56] [[31merror[39m]: [31m[Game Main DB] Ошибка подключения: [39m
+[2025-04-09 18:06:56] [[31merror[39m]: [31m[Game Test DB] Ошибка подключения: [39m
+[2025-04-09 18:06:56] [[31merror[39m]: [31m[Login Test DB] Ошибка подключения: [39m
+[2025-04-09 18:06:56] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-09 18:06:56] [[32minfo[39m]: [32m[Login DB] Успешное подключение к базе данных[39m
+[2025-04-09 18:07:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:07:01 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:07:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:07:01 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:07:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:07:01 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:07:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:07:01 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:07:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:07:01 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 200 29912 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:07:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:07:01 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:07:15] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT COUNT(*) as total [39m
+[34m                FROM accounts[39m
+[2025-04-09 18:07:15] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT [39m
+[34m                    login, [39m
+[34m                    accessLevel, [39m
+[34m                    lastactive,[39m
+[34m                    lastIP, [39m
+[34m                    lastHWID, [39m
+[34m                    lastServerId, [39m
+[34m                    ban_expire,[39m
+[34m                    l2email as email[39m
+[34m                FROM accounts [39m
+[34m                 [39m
+[34m                ORDER BY login ASC[39m
+[34m                LIMIT 10 OFFSET 0[39m
+[2025-04-09 18:07:16] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:07:16 +0000] "GET /api/login/account/list?page=1&limit=10&sortBy=login&sortOrder=asc HTTP/1.1" 200 2531 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:07:46] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT COUNT(*) as total [39m
+[34m                FROM accounts[39m
+[2025-04-09 18:07:46] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT [39m
+[34m                    login, [39m
+[34m                    accessLevel, [39m
+[34m                    lastactive,[39m
+[34m                    lastIP, [39m
+[34m                    lastHWID, [39m
+[34m                    lastServerId, [39m
+[34m                    ban_expire,[39m
+[34m                    l2email as email[39m
+[34m                FROM accounts [39m
+[34m                 [39m
+[34m                ORDER BY login ASC[39m
+[34m                LIMIT 200 OFFSET 0[39m
+[2025-04-09 18:07:46] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:07:46 +0000] "GET /api/login/account/list?page=1&limit=200&sortBy=login&sortOrder=asc HTTP/1.1" 200 30312 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:08:16] [[34mdebug[39m]: [34mПроверка существования аккаунта: 1111[39m
+[2025-04-09 18:08:16] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT COUNT(*) as count FROM accounts WHERE login = '1111'[39m
+[2025-04-09 18:08:16] [[34mdebug[39m]: [34mРезультат проверки существования: {"count":"1"}[39m
+[2025-04-09 18:08:16] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT COUNT(*) as total [39m
+[34m                FROM account_log [39m
+[34m                WHERE login = '1111'[39m
+[2025-04-09 18:08:16] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT [39m
+[34m                    time, [39m
+[34m                    lastServerId, [39m
+[34m                    ip, [39m
+[34m                    hwid[39m
+[34m                FROM account_log [39m
+[34m                WHERE login = '1111' [39m
+[34m                ORDER BY time DESC[39m
+[34m                LIMIT 10 OFFSET 0[39m
+[2025-04-09 18:08:16] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:08:16 +0000] "GET /api/login/account/1111/history?page=1&limit=10 HTTP/1.1" 200 1436 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:08:33] [[34mdebug[39m]: [34mЗагрузка информации об аккаунте: 1111[39m
+[2025-04-09 18:08:33] [[34mdebug[39m]: [34m[Login DB] Executing (default): CALL lip_AccountLoad('1111')[39m
+[2025-04-09 18:08:33] [[34mdebug[39m]: [34mРезультат загрузки аккаунта: [{"password":"6qGPqcqjrta9V4TIv48FIDXgiDu9s/Cs5HCSDVQ67bYaAW4UItOdIFhK69rZfBY3VtGHGizHFUELI/icAcFO2Q==","accessLevel":0,"lastServerId":1,"lastIP":"2.210.137.250","lastHWID":"64a69ba0a7bfb4101378a020b6f4b46a","lastactive":1744214325,"email":null}][39m
+[2025-04-09 18:08:33] [[34mdebug[39m]: [34mДанные аккаунта: {"password":"6qGPqcqjrta9V4TIv48FIDXgiDu9s/Cs5HCSDVQ67bYaAW4UItOdIFhK69rZfBY3VtGHGizHFUELI/icAcFO2Q==","accessLevel":0,"lastServerId":1,"lastIP":"2.210.137.250","lastHWID":"64a69ba0a7bfb4101378a020b6f4b46a","lastactive":1744214325,"email":null}[39m
+[2025-04-09 18:08:33] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT ban_expire FROM accounts WHERE login = '1111'[39m
+[2025-04-09 18:08:33] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:08:33 +0000] "GET /api/login/account/1111 HTTP/1.1" 200 341 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:08:58] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:08:58 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:08:58] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:08:58 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:08:58] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:08:58 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:08:58] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:08:58 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:08:58] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:08:58 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:45:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:45:10 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:45:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:45:10 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:45:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:45:10 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:45:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:45:10 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:45:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:45:10 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:45:11] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:45:11 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:45:16] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:45:16 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:45:16] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:45:16 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:45:16] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:45:16 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:45:16] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:45:16 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:45:16] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:45:16 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 18:45:16] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:16:45:16 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:00:15] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:00:15 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:00:15] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:00:15 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:00:15] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:00:15 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:00:15] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:00:15 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:00:15] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:00:15 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:00:15] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:00:15 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:14:39] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api[39m
+[2025-04-09 19:14:39] [[32minfo[39m]: [32mНайдены файлы: ["game","index.js","login","server-stats.js"][39m
+[2025-04-09 19:14:39] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game[39m
+[2025-04-09 19:14:39] [[32minfo[39m]: [32mНайдены файлы: ["characters.js"][39m
+[2025-04-09 19:14:39] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters.js[39m
+[2025-04-09 19:14:39] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game/characters[39m
+[2025-04-09 19:14:40] [[32minfo[39m]: [32mРегистрация роута: /api/game/characters[39m
+[2025-04-09 19:14:40] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login[39m
+[2025-04-09 19:14:40] [[32minfo[39m]: [32mНайдены файлы: ["account.js"][39m
+[2025-04-09 19:14:40] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login\account.js[39m
+[2025-04-09 19:14:40] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/login/account[39m
+[2025-04-09 19:14:40] [[32minfo[39m]: [32mРегистрация роута: /api/login/account[39m
+[2025-04-09 19:14:40] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\server-stats.js[39m
+[2025-04-09 19:14:40] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/server-stats[39m
+[2025-04-09 19:14:40] [[32minfo[39m]: [32mРегистрация роута: /api/server-stats[39m
+[2025-04-09 19:14:40] [[32minfo[39m]: [32mAPI-сервер запущен: http://localhost:3000[39m
+[2025-04-09 19:14:40] [[34mdebug[39m]: [34mРежим отладки активирован[39m
+[2025-04-09 19:14:40] [[33mwarn[39m]: [33mПредупреждение: проверка конфигурации[39m
+[2025-04-09 19:14:40] [[31merror[39m]: [31mТестовое сообщение об ошибке[39m
+[2025-04-09 19:14:40] [[31merror[39m]: [31m[Master DB] Ошибка подключения: [39m
+[2025-04-09 19:14:40] [[31merror[39m]: [31m[Game Main DB] Ошибка подключения: [39m
+[2025-04-09 19:14:40] [[31merror[39m]: [31m[Game Test DB] Ошибка подключения: [39m
+[2025-04-09 19:14:40] [[31merror[39m]: [31m[Login Test DB] Ошибка подключения: [39m
+[2025-04-09 19:14:41] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-09 19:14:41] [[32minfo[39m]: [32m[Login DB] Успешное подключение к базе данных[39m
+[2025-04-09 19:14:48] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:14:48 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:14:48] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:14:48 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 200 62685 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:14:48] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:14:48 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:14:48] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:14:48 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:14:48] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:14:48 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:14:48] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:14:48 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:15:18] [[33mwarn[39m]: [33mНеудачная попытка доступа к API. Предоставленный ключ: undefined[39m
+[2025-04-09 19:15:18] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:15:18 +0000] "GET /api/game/characters/list?page=1&limit=10&sortBy=char_name&sortOrder=asc HTTP/1.1" 401 130 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:15:30] [[31merror[39m]: [31mОшибка при получении списка персонажей: [39m
+[2025-04-09 19:15:30] [[31merror[39m]: [31mОшибка при получении списка персонажей:[39m
+[2025-04-09 19:15:30] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:15:30 +0000] "GET /api/game/characters/list?page=1&limit=10&sortBy=char_name&sortOrder=asc HTTP/1.1" 500 97 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:21:02] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api[39m
+[2025-04-09 19:21:02] [[32minfo[39m]: [32mНайдены файлы: ["game","index.js","login","server-stats.js"][39m
+[2025-04-09 19:21:02] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game[39m
+[2025-04-09 19:21:02] [[32minfo[39m]: [32mНайдены файлы: ["characters.js"][39m
+[2025-04-09 19:21:02] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters.js[39m
+[2025-04-09 19:21:02] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game/characters[39m
+[2025-04-09 19:21:03] [[32minfo[39m]: [32mРегистрация роута: /api/game/characters[39m
+[2025-04-09 19:21:03] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login[39m
+[2025-04-09 19:21:03] [[32minfo[39m]: [32mНайдены файлы: ["account.js"][39m
+[2025-04-09 19:21:03] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login\account.js[39m
+[2025-04-09 19:21:03] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/login/account[39m
+[2025-04-09 19:21:03] [[32minfo[39m]: [32mРегистрация роута: /api/login/account[39m
+[2025-04-09 19:21:03] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\server-stats.js[39m
+[2025-04-09 19:21:03] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/server-stats[39m
+[2025-04-09 19:21:03] [[32minfo[39m]: [32mРегистрация роута: /api/server-stats[39m
+[2025-04-09 19:21:03] [[32minfo[39m]: [32mAPI-сервер запущен: http://localhost:3000[39m
+[2025-04-09 19:21:03] [[34mdebug[39m]: [34mРежим отладки активирован[39m
+[2025-04-09 19:21:03] [[33mwarn[39m]: [33mПредупреждение: проверка конфигурации[39m
+[2025-04-09 19:21:03] [[31merror[39m]: [31mТестовое сообщение об ошибке[39m
+[2025-04-09 19:21:03] [[31merror[39m]: [31m[Master DB] Ошибка подключения: [39m
+[2025-04-09 19:21:03] [[31merror[39m]: [31m[Game Main DB] Ошибка подключения: [39m
+[2025-04-09 19:21:03] [[31merror[39m]: [31m[Game Test DB] Ошибка подключения: [39m
+[2025-04-09 19:21:03] [[31merror[39m]: [31m[Login Test DB] Ошибка подключения: [39m
+[2025-04-09 19:21:03] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-09 19:21:03] [[32minfo[39m]: [32m[Login DB] Успешное подключение к базе данных[39m
+[2025-04-09 19:21:59] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:21:59 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:21:59] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:21:59 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 200 53972 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:21:59] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:21:59 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:21:59] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:21:59 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:21:59] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:21:59 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:22:00] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:22:00 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:22:29] [[31merror[39m]: [31mОшибка при получении списка персонажей: [39m
+[2025-04-09 19:22:29] [[31merror[39m]: [31mОшибка при получении списка персонажей:[39m
+[2025-04-09 19:22:29] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:22:29 +0000] "GET /api/game/characters/list?page=1&limit=10&sortBy=char_name&sortOrder=asc HTTP/1.1" 500 97 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:33:42] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api[39m
+[2025-04-09 19:33:42] [[32minfo[39m]: [32mНайдены файлы: ["game","index.js","login","server-stats.js"][39m
+[2025-04-09 19:33:42] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game[39m
+[2025-04-09 19:33:42] [[32minfo[39m]: [32mНайдены файлы: ["characters.js"][39m
+[2025-04-09 19:33:42] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters.js[39m
+[2025-04-09 19:33:42] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game/characters[39m
+[2025-04-09 19:33:43] [[32minfo[39m]: [32mРегистрация роута: /api/game/characters[39m
+[2025-04-09 19:33:43] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login[39m
+[2025-04-09 19:33:43] [[32minfo[39m]: [32mНайдены файлы: ["account.js"][39m
+[2025-04-09 19:33:43] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login\account.js[39m
+[2025-04-09 19:33:43] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/login/account[39m
+[2025-04-09 19:33:43] [[32minfo[39m]: [32mРегистрация роута: /api/login/account[39m
+[2025-04-09 19:33:43] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\server-stats.js[39m
+[2025-04-09 19:33:43] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/server-stats[39m
+[2025-04-09 19:33:43] [[32minfo[39m]: [32mРегистрация роута: /api/server-stats[39m
+[2025-04-09 19:33:43] [[32minfo[39m]: [32mAPI-сервер запущен: http://localhost:3000[39m
+[2025-04-09 19:33:43] [[34mdebug[39m]: [34mРежим отладки активирован[39m
+[2025-04-09 19:33:43] [[33mwarn[39m]: [33mПредупреждение: проверка конфигурации[39m
+[2025-04-09 19:33:43] [[31merror[39m]: [31mТестовое сообщение об ошибке[39m
+[2025-04-09 19:33:43] [[31merror[39m]: [31m[Master DB] Ошибка подключения: [39m
+[2025-04-09 19:33:43] [[31merror[39m]: [31m[Game Test DB] Ошибка подключения: [39m
+[2025-04-09 19:33:43] [[31merror[39m]: [31m[Login Test DB] Ошибка подключения: [39m
+[2025-04-09 19:33:43] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-09 19:33:43] [[34mdebug[39m]: [34m[Game Main DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-09 19:33:43] [[32minfo[39m]: [32m[Login DB] Успешное подключение к базе данных[39m
+[2025-04-09 19:33:43] [[32minfo[39m]: [32m[Game Main DB] Успешное подключение к базе данных[39m
+[2025-04-09 19:33:49] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:33:49 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:33:49] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:33:49 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:33:49] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:33:49 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:33:49] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:33:49 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:33:49] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:33:49 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:33:49] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:33:49 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:34:01] [[34mdebug[39m]: [34m[Game Main DB] Executing (default): SELECT COUNT(*) as total [39m
+[34m                FROM characters [39m
+[34m                WHERE `deletetime` = 0[39m
+[2025-04-09 19:34:01] [[34mdebug[39m]: [34m[Game Main DB] Executing (default): SELECT [39m
+[34m                    obj_Id,[39m
+[34m                    char_name,[39m
+[34m                    account_name,[39m
+[34m                    sex,[39m
+[34m                    createtime,[39m
+[34m                    deletetime,[39m
+[34m                    lastAccess,[39m
+[34m                    online,[39m
+[34m                    onlinetime,[39m
+[34m                    clanid,[39m
+[34m                    title,[39m
+[34m                    pvpkills,[39m
+[34m                    pkkills,[39m
+[34m                    karma,[39m
+[34m                    accesslevel,[39m
+[34m                    x, y, z[39m
+[34m                FROM characters [39m
+[34m                WHERE `deletetime` = 0 [39m
+[34m                ORDER BY char_name ASC[39m
+[34m                LIMIT 10 OFFSET 0[39m
+[2025-04-09 19:34:01] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:34:01 +0000] "GET /api/game/characters/list?page=1&limit=10&sortBy=char_name&sortOrder=asc HTTP/1.1" 200 4610 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:34:17] [[34mdebug[39m]: [34m[Game Main DB] Executing (default): SELECT COUNT(*) as total [39m
+[34m                FROM characters [39m
+[34m                WHERE `deletetime` = 0[39m
+[2025-04-09 19:34:17] [[34mdebug[39m]: [34m[Game Main DB] Executing (default): SELECT [39m
+[34m                    obj_Id,[39m
+[34m                    char_name,[39m
+[34m                    account_name,[39m
+[34m                    sex,[39m
+[34m                    createtime,[39m
+[34m                    deletetime,[39m
+[34m                    lastAccess,[39m
+[34m                    online,[39m
+[34m                    onlinetime,[39m
+[34m                    clanid,[39m
+[34m                    title,[39m
+[34m                    pvpkills,[39m
+[34m                    pkkills,[39m
+[34m                    karma,[39m
+[34m                    accesslevel,[39m
+[34m                    x, y, z[39m
+[34m                FROM characters [39m
+[34m                WHERE `deletetime` = 0 [39m
+[34m                ORDER BY char_name ASC[39m
+[34m                LIMIT 300 OFFSET 0[39m
+[2025-04-09 19:34:17] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:34:17 +0000] "GET /api/game/characters/list?page=1&limit=300&sortBy=char_name&sortOrder=asc HTTP/1.1" 200 36859 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:36:03] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:36:03 +0000] "GET /api/game/characters/stats HTTP/1.1" 400 132 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:36:10] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:36:10 +0000] "GET /api/game/characters/stats?type=total HTTP/1.1" 400 132 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 19:36:16] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:17:36:16 +0000] "GET /api/game/characters/stats?type=online HTTP/1.1" 400 132 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 20:39:23] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api[39m
+[2025-04-09 20:39:23] [[32minfo[39m]: [32mНайдены файлы: ["game","index.js","login","server-stats.js"][39m
+[2025-04-09 20:39:23] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game[39m
+[2025-04-09 20:39:23] [[32minfo[39m]: [32mНайдены файлы: ["characters.js"][39m
+[2025-04-09 20:39:23] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters.js[39m
+[2025-04-09 20:39:23] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game/characters[39m
+[2025-04-09 20:39:30] [[32minfo[39m]: [32mРегистрация роута: /api/game/characters[39m
+[2025-04-09 20:39:30] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login[39m
+[2025-04-09 20:39:30] [[32minfo[39m]: [32mНайдены файлы: ["account.js"][39m
+[2025-04-09 20:39:30] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login\account.js[39m
+[2025-04-09 20:39:30] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/login/account[39m
+[2025-04-09 20:39:30] [[32minfo[39m]: [32mРегистрация роута: /api/login/account[39m
+[2025-04-09 20:39:30] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\server-stats.js[39m
+[2025-04-09 20:39:30] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/server-stats[39m
+[2025-04-09 20:39:30] [[32minfo[39m]: [32mРегистрация роута: /api/server-stats[39m
+[2025-04-09 20:39:31] [[32minfo[39m]: [32mAPI-сервер запущен: http://localhost:3000[39m
+[2025-04-09 20:39:31] [[34mdebug[39m]: [34mРежим отладки активирован[39m
+[2025-04-09 20:39:31] [[33mwarn[39m]: [33mПредупреждение: проверка конфигурации[39m
+[2025-04-09 20:39:31] [[31merror[39m]: [31mТестовое сообщение об ошибке[39m
+[2025-04-09 20:39:31] [[31merror[39m]: [31m[Master DB] Ошибка подключения: [39m
+[2025-04-09 20:39:31] [[31merror[39m]: [31m[Game Test DB] Ошибка подключения: [39m
+[2025-04-09 20:39:31] [[31merror[39m]: [31m[Login Test DB] Ошибка подключения: [39m
+[2025-04-09 20:39:31] [[34mdebug[39m]: [34m[Game Main DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-09 20:39:31] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-09 20:39:31] [[32minfo[39m]: [32m[Game Main DB] Успешное подключение к базе данных[39m
+[2025-04-09 20:39:31] [[32minfo[39m]: [32m[Login DB] Успешное подключение к базе данных[39m
+[2025-04-09 20:39:42] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:18:39:42 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 20:39:42] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:18:39:42 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 20:39:43] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:18:39:43 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 20:39:43] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:18:39:43 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 20:39:43] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:18:39:43 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 20:39:43] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:18:39:43 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 20:39:57] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:18:39:57 +0000] "GET /api/game/characters/stats?type=total HTTP/1.1" 400 132 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-09 20:40:02] [[32minfo[39m]: [32m::1 - - [09/Apr/2025:18:40:02 +0000] "GET /api/game/characters/stats?type=online HTTP/1.1" 400 132 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:29:08] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api[39m
+[2025-04-10 09:29:08] [[32minfo[39m]: [32mНайдены файлы: ["game","index.js","login","server-stats.js"][39m
+[2025-04-10 09:29:08] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game[39m
+[2025-04-10 09:29:08] [[32minfo[39m]: [32mНайдены файлы: ["characters","characters.js"][39m
+[2025-04-10 09:29:08] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters[39m
+[2025-04-10 09:29:08] [[32minfo[39m]: [32mНайдены файлы: ["characters-account.js","characters-details.js","characters-list.js","characters-stats.js"][39m
+[2025-04-10 09:29:08] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters\characters-account.js[39m
+[2025-04-10 09:29:08] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game\characters/characters-account[39m
+[2025-04-10 09:29:13] [[32minfo[39m]: [32mРегистрация роута: /api/game\characters/characters-account[39m
+[2025-04-10 09:29:13] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters\characters-details.js[39m
+[2025-04-10 09:29:13] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game\characters/characters-details[39m
+[2025-04-10 09:29:13] [[32minfo[39m]: [32mРегистрация роута: /api/game\characters/characters-details[39m
+[2025-04-10 09:29:13] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters\characters-list.js[39m
+[2025-04-10 09:29:13] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game\characters/characters-list[39m
+[2025-04-10 09:29:13] [[32minfo[39m]: [32mРегистрация роута: /api/game\characters/characters-list[39m
+[2025-04-10 09:29:13] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters\characters-stats.js[39m
+[2025-04-10 09:29:13] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game\characters/characters-stats[39m
+[2025-04-10 09:29:13] [[32minfo[39m]: [32mРегистрация роута: /api/game\characters/characters-stats[39m
+[2025-04-10 09:29:13] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters.js[39m
+[2025-04-10 09:29:13] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game/characters[39m
+[2025-04-10 09:29:13] [[32minfo[39m]: [32mРегистрация роута: /api/game/characters[39m
+[2025-04-10 09:29:13] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login[39m
+[2025-04-10 09:29:13] [[32minfo[39m]: [32mНайдены файлы: ["account.js"][39m
+[2025-04-10 09:29:13] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login\account.js[39m
+[2025-04-10 09:29:13] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/login/account[39m
+[2025-04-10 09:29:13] [[32minfo[39m]: [32mРегистрация роута: /api/login/account[39m
+[2025-04-10 09:29:13] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\server-stats.js[39m
+[2025-04-10 09:29:13] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/server-stats[39m
+[2025-04-10 09:29:13] [[32minfo[39m]: [32mРегистрация роута: /api/server-stats[39m
+[2025-04-10 09:29:13] [[32minfo[39m]: [32mAPI-сервер запущен: http://localhost:3000[39m
+[2025-04-10 09:29:13] [[34mdebug[39m]: [34mРежим отладки активирован[39m
+[2025-04-10 09:29:13] [[33mwarn[39m]: [33mПредупреждение: проверка конфигурации[39m
+[2025-04-10 09:29:13] [[31merror[39m]: [31mТестовое сообщение об ошибке[39m
+[2025-04-10 09:29:13] [[31merror[39m]: [31m[Master DB] Ошибка подключения: [39m
+[2025-04-10 09:29:13] [[31merror[39m]: [31m[Game Test DB] Ошибка подключения: [39m
+[2025-04-10 09:29:13] [[31merror[39m]: [31m[Login Test DB] Ошибка подключения: [39m
+[2025-04-10 09:29:14] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-10 09:29:14] [[34mdebug[39m]: [34m[Game Main DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-10 09:29:14] [[32minfo[39m]: [32m[Login DB] Успешное подключение к базе данных[39m
+[2025-04-10 09:29:14] [[32minfo[39m]: [32m[Game Main DB] Успешное подключение к базе данных[39m
+[2025-04-10 09:29:58] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:29:58 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:29:59] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:29:59 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:29:59] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:29:59 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 200 29912 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:29:59] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:29:59 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:29:59] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:29:59 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mНайдены файлы: ["game","index.js","login","server-stats.js"][39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mНайдены файлы: ["characters","characters.js"][39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mНайдены файлы: ["characters-account.js","characters-details.js","characters-list.js","characters-stats.js"][39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters\characters-account.js[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game\characters/characters-account[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mРегистрация роута: /api/game\characters/characters-account[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters\characters-details.js[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game\characters/characters-details[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mРегистрация роута: /api/game\characters/characters-details[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters\characters-list.js[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game\characters/characters-list[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mРегистрация роута: /api/game\characters/characters-list[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters\characters-stats.js[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game\characters/characters-stats[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mРегистрация роута: /api/game\characters/characters-stats[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters.js[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game/characters[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mРегистрация роута: /api/game/characters[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mНайдены файлы: ["account.js"][39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login\account.js[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/login/account[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mРегистрация роута: /api/login/account[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\server-stats.js[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/server-stats[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mРегистрация роута: /api/server-stats[39m
+[2025-04-10 09:32:03] [[32minfo[39m]: [32mAPI-сервер запущен: http://localhost:3000[39m
+[2025-04-10 09:32:03] [[34mdebug[39m]: [34mРежим отладки активирован[39m
+[2025-04-10 09:32:03] [[33mwarn[39m]: [33mПредупреждение: проверка конфигурации[39m
+[2025-04-10 09:32:03] [[31merror[39m]: [31mТестовое сообщение об ошибке[39m
+[2025-04-10 09:32:03] [[31merror[39m]: [31m[Master DB] Ошибка подключения: [39m
+[2025-04-10 09:32:03] [[31merror[39m]: [31m[Game Test DB] Ошибка подключения: [39m
+[2025-04-10 09:32:03] [[31merror[39m]: [31m[Login Test DB] Ошибка подключения: [39m
+[2025-04-10 09:32:04] [[34mdebug[39m]: [34m[Game Main DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-10 09:32:04] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-10 09:32:04] [[32minfo[39m]: [32m[Game Main DB] Успешное подключение к базе данных[39m
+[2025-04-10 09:32:04] [[32minfo[39m]: [32m[Login DB] Успешное подключение к базе данных[39m
+[2025-04-10 09:32:07] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:32:07 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:32:07] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:32:07 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:32:07] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:32:07 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:32:07] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:32:07 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 200 35231 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:32:07] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:32:07 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:32:07] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:32:07 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:32:26] [[34mdebug[39m]: [34m[Game Main DB] Executing (default): SELECT COUNT(*) as total [39m
+[34m                FROM characters [39m
+[34m                WHERE `deletetime` = 0[39m
+[2025-04-10 09:32:26] [[34mdebug[39m]: [34m[Game Main DB] Executing (default): SELECT [39m
+[34m                    obj_Id,[39m
+[34m                    char_name,[39m
+[34m                    account_name,[39m
+[34m                    sex,[39m
+[34m                    createtime,[39m
+[34m                    deletetime,[39m
+[34m                    lastAccess,[39m
+[34m                    online,[39m
+[34m                    onlinetime,[39m
+[34m                    clanid,[39m
+[34m                    title,[39m
+[34m                    pvpkills,[39m
+[34m                    pkkills,[39m
+[34m                    karma,[39m
+[34m                    accesslevel,[39m
+[34m                    x, y, z[39m
+[34m                FROM characters [39m
+[34m                WHERE `deletetime` = 0 [39m
+[34m                ORDER BY char_name ASC[39m
+[34m                LIMIT 10 OFFSET 0[39m
+[2025-04-10 09:32:26] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:32:26 +0000] "GET /api/game/characters/list?page=1 HTTP/1.1" 200 4613 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:32:47] [[31merror[39m]: [31mОшибка при получении статистики персонажей: charactersDb.getTotalStats is not a function[39m
+[2025-04-10 09:32:47] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:32:47 +0000] "GET /api/game/characters/stats HTTP/1.1" 500 149 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:39:07] [[31merror[39m]: [31mОшибка при получении статистики персонажей: charactersDb.getTotalStats is not a function[39m
+[2025-04-10 09:39:07] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:39:07 +0000] "GET /api/game/characters/stats?type=total HTTP/1.1" 500 149 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:42:40] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api[39m
+[2025-04-10 09:42:40] [[32minfo[39m]: [32mНайдены файлы: ["game","index.js","login","server-stats.js"][39m
+[2025-04-10 09:42:40] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game[39m
+[2025-04-10 09:42:40] [[32minfo[39m]: [32mНайдены файлы: ["characters","characters.js"][39m
+[2025-04-10 09:42:40] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters[39m
+[2025-04-10 09:42:40] [[32minfo[39m]: [32mНайдены файлы: ["characters-account.js","characters-details.js","characters-list.js","characters-stats.js"][39m
+[2025-04-10 09:42:40] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters\characters-account.js[39m
+[2025-04-10 09:42:40] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game\characters/characters-account[39m
+[2025-04-10 09:42:42] [[32minfo[39m]: [32mРегистрация роута: /api/game\characters/characters-account[39m
+[2025-04-10 09:42:42] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters\characters-details.js[39m
+[2025-04-10 09:42:42] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game\characters/characters-details[39m
+[2025-04-10 09:42:42] [[32minfo[39m]: [32mРегистрация роута: /api/game\characters/characters-details[39m
+[2025-04-10 09:42:42] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters\characters-list.js[39m
+[2025-04-10 09:42:42] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game\characters/characters-list[39m
+[2025-04-10 09:42:42] [[32minfo[39m]: [32mРегистрация роута: /api/game\characters/characters-list[39m
+[2025-04-10 09:42:42] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters\characters-stats.js[39m
+[2025-04-10 09:42:42] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game\characters/characters-stats[39m
+[2025-04-10 09:42:42] [[32minfo[39m]: [32mРегистрация роута: /api/game\characters/characters-stats[39m
+[2025-04-10 09:42:42] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters.js[39m
+[2025-04-10 09:42:42] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game/characters[39m
+[2025-04-10 09:42:42] [[32minfo[39m]: [32mРегистрация роута: /api/game/characters[39m
+[2025-04-10 09:42:42] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login[39m
+[2025-04-10 09:42:42] [[32minfo[39m]: [32mНайдены файлы: ["account.js"][39m
+[2025-04-10 09:42:42] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login\account.js[39m
+[2025-04-10 09:42:42] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/login/account[39m
+[2025-04-10 09:42:42] [[32minfo[39m]: [32mРегистрация роута: /api/login/account[39m
+[2025-04-10 09:42:42] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\server-stats.js[39m
+[2025-04-10 09:42:42] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/server-stats[39m
+[2025-04-10 09:42:43] [[32minfo[39m]: [32mРегистрация роута: /api/server-stats[39m
+[2025-04-10 09:42:43] [[32minfo[39m]: [32mAPI-сервер запущен: http://localhost:3000[39m
+[2025-04-10 09:42:43] [[34mdebug[39m]: [34mРежим отладки активирован[39m
+[2025-04-10 09:42:43] [[33mwarn[39m]: [33mПредупреждение: проверка конфигурации[39m
+[2025-04-10 09:42:43] [[31merror[39m]: [31mТестовое сообщение об ошибке[39m
+[2025-04-10 09:42:43] [[31merror[39m]: [31m[Master DB] Ошибка подключения: [39m
+[2025-04-10 09:42:43] [[31merror[39m]: [31m[Game Test DB] Ошибка подключения: [39m
+[2025-04-10 09:42:43] [[31merror[39m]: [31m[Login Test DB] Ошибка подключения: [39m
+[2025-04-10 09:42:43] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-10 09:42:43] [[34mdebug[39m]: [34m[Game Main DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-10 09:42:43] [[32minfo[39m]: [32m[Login DB] Успешное подключение к базе данных[39m
+[2025-04-10 09:42:43] [[32minfo[39m]: [32m[Game Main DB] Успешное подключение к базе данных[39m
+[2025-04-10 09:42:47] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:42:47 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:42:47] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:42:47 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:42:47] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:42:47 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:42:47] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:42:47 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:42:47] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:42:47 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:42:47] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:42:47 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:42:49] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:42:49 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:42:49] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:42:49 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:42:49] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:42:49 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:42:49] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:42:49 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:42:49] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:42:49 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:42:49] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:42:49 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 09:42:59] [[34mdebug[39m]: [34m[Game Main DB] Executing (default): SELECT [39m
+[34m                COUNT(*) as total_online,[39m
+[34m                SUM(CASE WHEN base_class_id < 20 THEN 1 ELSE 0 END) as low_level_online,[39m
+[34m                SUM(CASE WHEN base_class_id BETWEEN 20 AND 40 THEN 1 ELSE 0 END) as mid_level_online,[39m
+[34m                SUM(CASE WHEN base_class_id > 40 THEN 1 ELSE 0 END) as high_level_online[39m
+[34m            FROM characters [39m
+[34m            WHERE online = 1[39m
+[2025-04-10 09:42:59] [[31merror[39m]: [31mОшибка при получении статистики онлайн персонажей: Cannot read properties of undefined (reading 'total_online')[39m
+[2025-04-10 09:42:59] [[31merror[39m]: [31mОшибка при получении статистики персонажей: Cannot read properties of undefined (reading 'total_online')[39m
+[2025-04-10 09:42:59] [[32minfo[39m]: [32m::1 - - [10/Apr/2025:07:42:59 +0000] "GET /api/game/characters/stats?type=online HTTP/1.1" 500 165 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mНайдены файлы: ["game","index.js","login","server-stats.js"][39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mНайдены файлы: ["characters","characters.js"][39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mНайдены файлы: ["characters-account.js","characters-details.js","characters-list.js","characters-stats.js"][39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters\characters-account.js[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game\characters/characters-account[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mРегистрация роута: /api/game\characters/characters-account[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters\characters-details.js[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game\characters/characters-details[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mРегистрация роута: /api/game\characters/characters-details[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters\characters-list.js[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game\characters/characters-list[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mРегистрация роута: /api/game\characters/characters-list[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters\characters-stats.js[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game\characters/characters-stats[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mРегистрация роута: /api/game\characters/characters-stats[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters.js[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game/characters[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mРегистрация роута: /api/game/characters[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mНайдены файлы: ["account.js"][39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login\account.js[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/login/account[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mРегистрация роута: /api/login/account[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\server-stats.js[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/server-stats[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mРегистрация роута: /api/server-stats[39m
+[2025-04-10 10:15:05] [[32minfo[39m]: [32mAPI-сервер запущен: http://localhost:3000[39m
+[2025-04-10 10:15:05] [[34mdebug[39m]: [34mРежим отладки активирован[39m
+[2025-04-10 10:15:05] [[33mwarn[39m]: [33mПредупреждение: проверка конфигурации[39m
+[2025-04-10 10:15:05] [[31merror[39m]: [31mТестовое сообщение об ошибке[39m
+[2025-04-10 10:15:05] [[31merror[39m]: [31m[Master DB] Ошибка подключения: [39m
+[2025-04-10 10:15:05] [[31merror[39m]: [31m[Login DB] Ошибка подключения: [39m
+[2025-04-10 10:15:05] [[31merror[39m]: [31m[Game Main DB] Ошибка подключения: [39m
+[2025-04-10 10:15:05] [[31merror[39m]: [31m[Game Test DB] Ошибка подключения: [39m
+[2025-04-10 10:15:05] [[31merror[39m]: [31m[Login Test DB] Ошибка подключения: [39m
+[2025-04-10 10:15:19] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api[39m
+[2025-04-10 10:15:19] [[32minfo[39m]: [32mНайдены файлы: ["game","index.js","login","server-stats.js"][39m
+[2025-04-10 10:15:19] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game[39m
+[2025-04-10 10:15:19] [[32minfo[39m]: [32mНайдены файлы: ["characters","characters.js"][39m
+[2025-04-10 10:15:19] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters[39m
+[2025-04-10 10:15:19] [[32minfo[39m]: [32mНайдены файлы: ["characters-account.js","characters-details.js","characters-list.js","characters-stats.js"][39m
+[2025-04-10 10:15:19] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters\characters-account.js[39m
+[2025-04-10 10:15:19] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game\characters/characters-account[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32mРегистрация роута: /api/game\characters/characters-account[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters\characters-details.js[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game\characters/characters-details[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32mРегистрация роута: /api/game\characters/characters-details[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters\characters-list.js[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game\characters/characters-list[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32mРегистрация роута: /api/game\characters/characters-list[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters\characters-stats.js[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game\characters/characters-stats[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32mРегистрация роута: /api/game\characters/characters-stats[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\game\characters.js[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/game/characters[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32mРегистрация роута: /api/game/characters[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32mЗагрузка роутов из директории: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32mНайдены файлы: ["account.js"][39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\login\account.js[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/login/account[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32mРегистрация роута: /api/login/account[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32mПопытка загрузки роута: C:\Users\Admin\IdeaProjects\emer.land.api\src\api\server-stats.js[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32mБудет зарегистрирован как: /api/server-stats[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32mРегистрация роута: /api/server-stats[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32mAPI-сервер запущен: http://localhost:3000[39m
+[2025-04-10 10:15:20] [[34mdebug[39m]: [34mРежим отладки активирован[39m
+[2025-04-10 10:15:20] [[33mwarn[39m]: [33mПредупреждение: проверка конфигурации[39m
+[2025-04-10 10:15:20] [[31merror[39m]: [31mТестовое сообщение об ошибке[39m
+[2025-04-10 10:15:20] [[31merror[39m]: [31m[Master DB] Ошибка подключения: [39m
+[2025-04-10 10:15:20] [[31merror[39m]: [31m[Game Test DB] Ошибка подключения: [39m
+[2025-04-10 10:15:20] [[31merror[39m]: [31m[Login Test DB] Ошибка подключения: [39m
+[2025-04-10 10:15:20] [[34mdebug[39m]: [34m[Login DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-10 10:15:20] [[34mdebug[39m]: [34m[Game Main DB] Executing (default): SELECT 1+1 AS result[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32m[Login DB] Успешное подключение к базе данных[39m
+[2025-04-10 10:15:20] [[32minfo[39m]: [32m[Game Main DB] Успешное подключение к базе данных[39m

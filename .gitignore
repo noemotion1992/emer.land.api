@@ -1,0 +1,12 @@
+# Не отслеживать файл окружения
+.env
+*.env
+
+# Node.js (если ты его используешь)
+node_modules/
+dist/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
